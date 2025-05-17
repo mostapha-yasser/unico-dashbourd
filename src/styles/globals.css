@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@import "tailwindcss";
+:root{
+  --color-Chart-main:#fffdfb ;
+
+}
+/* {4e6e5d,} */
+html {
+  scroll-behavior: smooth;
+}
+@theme {
+/* --color-main: #003b5c; الازرق*/
+--color-bgCard:#43434300 ;       
+/* --color-main: #4e6e5d; /الزيتى يا فاطمة*/
+
+/* --color-main: #253c8f;  */
+--color-main: #CC8712;
+--color-secondary: #131E48;
+--color-formbg: #fffdfb;
+--color-Text: #131E48;
+
+
+  --color-Input-Background: #ffffff;
+    --color-Input-Border: #CC8712;
+    --color-Input-Focus: #CC8712;
+    
+
+/* --color-secondary: #AD7942; */
+
+  --color-fixedComponentBg:#ffffff;  
+  --color-textColor:#1e1e1e;
+  --text-header-sm: 1.25rem;   
+  --text-header-md: 1.5rem;     
+  --text-header-lg: 2rem;   
+  --text-title-sm: 1.125rem;  
+  --text-title-md: 1.25rem;   
+  --text-title-lg: 1.5rem;    
+  --font-helvetica:  "helvetica" , 'Arial', 'sans-serif'; 
+
+  --text-desc-sm: 0.875rem;   
+  --text-desc-md: 1rem;       
+  --text-desc-lg: 1.125rem;
+ --breakpoint-3xl: 125rem;}
+.U-fromUnico::before {
+  content: "U";
+}
