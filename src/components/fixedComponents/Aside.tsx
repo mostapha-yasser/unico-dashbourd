@@ -30,7 +30,7 @@ function Aside() {
 
       <div className="hidden lg:block  lg:min-w-2/9 xl:min-w-1/7  relative">
         <AsideBar isVisible={true} toggleLogoutModel={toggleLogoutModel} />
-        <Image src={unicoLogo} alt={"unico-logo"} className="absolute bottom-10 left-1/2 -translate-x-6/10  w-9/10 " />
+        <Image src={unicoLogo} alt={"unico-logo"} className="absolute bottom-10 left-1/2 -translate-x-6/10  w-7/10 " />
       </div>
     
 
